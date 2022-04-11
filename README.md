@@ -13,7 +13,7 @@ To build the react website, simply run the following commands
 
 ```bash
 cd react
-yarn init
+yarn install
 yarn build
 ```
 

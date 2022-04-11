@@ -11,7 +11,7 @@ class ReactUI(LightningFlow):
         self.should_print = False
 
     def configure_layout(self):
-        return StaticWebFrontend(Path(__file__).parent / "react/dist")
+        return StaticWebFrontend(Path(__file__).parent / "ui/dist")
 
 
 class HelloWorld(LightningFlow):
