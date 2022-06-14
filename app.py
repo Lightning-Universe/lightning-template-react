@@ -1,7 +1,7 @@
 from pathlib import Path
 
 from lightning import LightningApp, LightningFlow
-from lightning.frontend import StaticWebFrontend
+from lightning.app.frontend import StaticWebFrontend
 
 
 class ReactUI(LightningFlow):

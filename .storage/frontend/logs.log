@@ -1,4 +1,8 @@
-INFO:     Started server process [71035]
+INFO:     Started server process [93730]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
-INFO:     Uvicorn running on http://localhost:63912 (Press CTRL+C to quit)
+INFO:     Uvicorn running on http://localhost:54255 (Press CTRL+C to quit)
+INFO:     ::1:54262 - "GET /root.react_ui HTTP/1.1" 307
+INFO:     ::1:54262 - "GET /root.react_ui/ HTTP/1.1" 200
+INFO:     ::1:54262 - "GET /root.react_ui/assets/index.36a7785d.js HTTP/1.1" 200
+INFO:     ::1:54263 - "GET /root.react_ui/assets/index.1cfa3f51.css HTTP/1.1" 200
