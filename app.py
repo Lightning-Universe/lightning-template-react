@@ -30,4 +30,4 @@ class HelloWorld(LightningFlow):
         return [{"name": "ReactUI", "content": self.react_ui}]
 
 
-app = LightningApp(HelloWorld(), debug=True)
+app = LightningApp(HelloWorld())
